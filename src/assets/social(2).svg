@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__logo_1_" width="24" height="24" data-name="logo (1)" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#fff}
+        </style>
+    </defs>
+    <path id="prefix__Path_8253" d="M23.994 24H24v-8.8c0-4.306-.927-7.623-5.961-7.623a5.226 5.226 0 0 0-4.707 2.587h-.07V7.976H8.489V24h4.97v-7.935c0-2.089.4-4.109 2.983-4.109 2.549 0 2.587 2.384 2.587 4.243V24z" class="prefix__cls-1" data-name="Path 8253"/>
+    <path id="prefix__Path_8254" d="M.4 7.977h4.972V24H.4z" class="prefix__cls-1" data-name="Path 8254"/>
+    <path id="prefix__Path_8255" d="M2.882 0a2.9 2.9 0 1 0 2.882 2.882A2.883 2.883 0 0 0 2.882 0z" class="prefix__cls-1" data-name="Path 8255"/>
+</svg>
