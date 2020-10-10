@@ -119,7 +119,7 @@ export default {
         ]
       },
       // pixel: 0,
-      boo: [],
+      boo: []
     }
   },
   mounted() {
@@ -139,9 +139,6 @@ export default {
     scrollAnimation () {
       // this.pixel = document.documentElement.scrollTop
       const arr = [50, 400, 750, 1100, 1400, 1700, 2000, 2300]
-      if (document.documentElement.scrollTop < 50) {
-        this.boo = []
-      }
       for ( var i = 0; i < arr.length; i++ ) {
         /* eslint-disable no-debugger */
         // debugger
